@@ -5,9 +5,11 @@ function onScroll() {
   showNavOnScroll()
   showButtomFloat()
 
-  activateMenuAtCurrentSection(home)
+  // activateMenuAtCurrentSection(home)
   // activateMenuAtCurrentSection(services)
   // activateMenuAtCurrentSection(about)
+
+  
 }
 
 function activateMenuAtCurrentSection(section) {
@@ -45,30 +47,6 @@ function activateMenuAtCurrentSection(section) {
       menuElement.classList.add('active')
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   function showNavOnScroll() {
     if (scrollY > 0) {

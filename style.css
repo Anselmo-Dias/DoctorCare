@@ -192,9 +192,9 @@ body.menu-expanded {
   overflow: hidden;
 }
 
-body.menu-expanded> :not(nav) {
-  /* visibility: hidden; */
-}
+/* body.menu-expanded> :not(nav) {
+  visibility: hidden;
+} */
 
 .menu,
 .close-menu,
@@ -612,6 +612,10 @@ section header h2 {
   nav#navigationPage .close-menu,
   nav#navigationPage .social-links  {
     
+    display: none;
+  }
+
+  #navigationPage #button-hidden svg {
     display: none;
   }
   
