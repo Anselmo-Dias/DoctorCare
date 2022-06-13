@@ -302,7 +302,7 @@ body.menu-expanded button path {
 #home::before {
   content: '';
   width: 100%;
-  height: calc(76% + var(--nav-height));
+  height: calc(109% + var(--nav-height));
   background-color: var(--brand-light);
   display: block;
 
@@ -719,7 +719,7 @@ section header h2 {
   
   /*=== Home =================================*/
   #home::before {
-    height: calc(46% +  var(--nav-height));
+    height: calc(67% +  var(--nav-height));
   }
 
 
