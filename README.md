@@ -32,7 +32,7 @@
 ### **Hospedado por:**
 <br />
 
-  - [GitHub Pages](https://anselmo-dias.github.io/BarbeariaDosBoys/) 💈
+  - [GitHub Pages](https://anselmo-dias.github.io/DoctorCare/) 💈
  
 
 
