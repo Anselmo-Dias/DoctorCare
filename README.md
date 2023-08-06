@@ -28,6 +28,17 @@
 
 <br />
 
+
+## :bulb: Conteúdos abordados
+<br />
+
+
+- Html
+- Css
+- JavaScript
+
+<br />
+
 ## O link do site 
 ### **Hospedado por:**
 <br />
