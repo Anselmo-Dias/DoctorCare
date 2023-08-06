@@ -50,5 +50,6 @@ Siga -me no instagram
 <br />
 
 - [Instagram](https://www.instagram.com/_anselmo_69/)
+- [Linkedin](https://www.linkedin.com/in/anselmo-dias-dev/)
 
 <br />
